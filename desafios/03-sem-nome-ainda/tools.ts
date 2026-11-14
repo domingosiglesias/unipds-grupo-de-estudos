@@ -62,3 +62,5 @@ export const getMoreContextFromDatabase = tool(
             query: z.string().describe("A consulta para buscar informações no banco de dados"),
         }),
     });
+
+
